@@ -1,8 +1,8 @@
 {
   "uuid": "155f15a8-5fcf-4ea0-899d-3bd4364ffd0e",
-  "shortName": "QRAR",
-  "longName": "QRAR",
-  "companyName": "MakeAwesomeHappen",
+  "shortName": "Banangram",
+  "longName": "Bananagram",
+  "companyName": "CraigAndConlin",
   "versionCode": 1,
   "versionLabel": "1.0.0",
   "watchapp": {
@@ -12,6 +12,12 @@
     "dummy": 0
   },
   "resources": {
-    "media": []
+    "media": [
+    {
+      "type": "png",
+      "name": "QR_TEST",
+      "file": "images/qr.png"
+    }
+    ]
   }
 }
